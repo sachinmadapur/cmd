@@ -11,4 +11,8 @@ public void createOrgtest() {
 public void modifyOrgtest() {
 	System.out.println("modifyContact");
 }
+@Test
+public void NewOrgPageinfo() {
+	System.out.println("New Page Created");
+}
 }
