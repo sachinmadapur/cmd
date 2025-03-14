@@ -7,4 +7,8 @@ public class ProductPage {
 public void Imitiaz() {
 	System.out.println("Happy Holi");
 }
+@Test
+public void Sachin() {
+	System.out.println("Maggie Maker");
+}
 }
