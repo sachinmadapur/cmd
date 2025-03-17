@@ -10,7 +10,7 @@ public void createContacttest() {
 	String USERNAME = System.getProperty("username");
 	String PASSWORD = System.getProperty("password");
 
-	
+	//mvn test -P RT -Durl=http://testenv.com -Dbrowser=FireFox -Dusername=admin -Dpassword=admin
 	
 	System.out.println(URL);
 	System.out.println(BROWSER);
